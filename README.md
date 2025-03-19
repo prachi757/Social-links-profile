@@ -1,5 +1,4 @@
 # Social-links-profile 🌐
-A responsive landing page of Social links profile .
 A **responsive** and **accessible** landing page to showcase your social media links in one place.
 
 ## 🚀 Features
