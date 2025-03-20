@@ -1,0 +1,87 @@
+body{
+    background-color:rgba(20, 20, 20,0.9); 
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    height:100vh;
+} 
+
+a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    margin-bottom: 10px;
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+  
+}
+h5{
+    color:rgb(197, 248, 42);
+    margin-top:2px;
+    font-family: "Oldenburg", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+#main-box{
+    height:500px;
+    width:300px;
+    background-color: rgb(31, 31, 31);
+    text-align:center;
+    border-radius:15px;
+    box-shadow:4px 4px 6px rgba(255, 255, 255, 0.3);
+    transition:box-shadow 0.3s ease-in-out 0s ;
+}
+
+img{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    margin-top:40px;
+}
+
+.links{
+    background-color: rgb(51, 51, 51);
+    margin:15px auto;
+    padding:10px;
+    height:20px;
+    width:70%;
+    text-align:center;
+    border-radius:8px;
+    transition:background-color 1s ease-in-out 0s ;
+}
+
+p{
+    font-size:14px;
+    color: rgba(255, 255, 255, 0.8);
+   
+}
+
+.links:hover{
+    background-color:rgb(197, 248, 42); 
+}
+
+.links:hover a{
+    color:rgb(20, 20, 20);
+}
+
+#main-box:hover {
+    box-shadow:7px 7px 10px rgba(0, 255, 255,0.4)
+}
+
+@media(min-width:375px) and (max-width:1440px){
+    body{
+        background-color:rgb(20, 20, 20); 
+    }
+}
