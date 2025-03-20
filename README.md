@@ -1,5 +1,5 @@
 # Social-links-profile 🌐
-A **responsive** and **accessible** landing page to showcase your social media links in one place.
+A **responsive** and **accessible** landing page to showcase social media links in one place.
 
 ## 🚀 Features
 - 📱 **Fully Responsive** – Works on all devices (mobile, tablet, desktop).
