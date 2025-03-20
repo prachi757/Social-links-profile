@@ -4,7 +4,7 @@ A **responsive** and **accessible** landing page to showcase social media links 
 ## 🚀 Features
 - 📱 **Fully Responsive** – Works on all devices (mobile, tablet, desktop).
 - 🎨 **Modern UI/UX** – Clean and minimalistic design.
-- 🔗 **Clickable Social Links** – Easy access to your social media profiles.
+- 🔗 **Clickable Social Links** – Easy access to social media profiles.
 - 💻 **Easy Customization** – Modify colors, links, and layout as needed.
 
 ## 🛠️ Technologies Used
