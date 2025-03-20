@@ -6,11 +6,6 @@ A **responsive** and **accessible** landing page to showcase social media links 
 - 🎨 **Modern UI/UX** – Clean and minimalistic design.
 - 🔗 **Clickable Social Links** – Easy access to social media profiles.
 - 💻 **Easy Customization** – Modify colors, links, and layout as needed.
-## 📸 Preview
-
-Here’s a preview of the project:
-
-![Preview](preview.png)
 
 ## 🛠️ Technologies Used
 - **HTML5**  
