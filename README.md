@@ -10,7 +10,7 @@ A **responsive** and **accessible** landing page to showcase social media links 
 
 Here’s a preview of the project:
 
-![Preview](assets/preview.png)
+![Preview](preview.png)
 
 ## 🛠️ Technologies Used
 - **HTML5**  
